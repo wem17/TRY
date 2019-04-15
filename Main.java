@@ -1,5 +1,15 @@
 package com.company;
 
+/*  
+Project: Lab 13
+Purpose Details: TRY CATCH EXCEPTION
+Course: IST 242 
+Author:Wilmer Monsalve 
+Date Developed:4-13-19 
+Last Date Changed:4-13-19 
+Revision:Yes 
+*/ 
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
